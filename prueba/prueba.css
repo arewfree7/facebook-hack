@@ -1,0 +1,18 @@
+
+.botones{
+    display:flex;
+    flex-direction: row;
+    height:100px;
+    border: 1px solid;
+    justify-content: center;
+    align-items: center;
+}
+.botones div{
+    border-radius:5px;
+    border:1px solid;
+    border-color: black;
+    width:50%;
+    height:50px;
+    margin:0.5em;
+
+}
